@@ -1,0 +1,6 @@
+-- -- 这里的sql不能为空，因为data.sql会被spring执行
+-- INSERT INTO STUDENT
+--     VALUES (10001, 'Ranga','E1234567');
+--
+-- INSERT INTO STUDENT
+-- VALUES(10002,'Ravi', 'A1234568');
